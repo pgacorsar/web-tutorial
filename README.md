@@ -54,6 +54,13 @@ button "Create Pull Request" again.
 8. Your changes will then be revised and merged upstream if they look good and
 do not break the work of others.
 
+9. To sync the upstream with your fork, just do "git fetch upstream" followed
+by "git merge upstream/master" in the terminal/command prompt from the fork 
+directory. 
+The first time you do this you'll need to define what "upstream" is, by 
+running 
+"git remote add upstream https://github.com/EPDnM-TQM/web-tutorial.git"
+
 ## Adding "training material" to the website
 
 Copy `template.html` (WIP), rename it to something sensible (`index.html`),
