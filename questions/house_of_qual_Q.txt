@@ -1,0 +1,30 @@
+House of quality questions:
+
+Question 1.
+Which one is incorrect? The methods used to build up a house of quality are?
+
+1. Correlaton Matrix
+2. Extent of product
+-> Computing the action required
+4. Importance rating
+5. Voice of Customer
+
+Question 2.
+When planning the matrix the main purpose is?
+
+1. To evaluate the what is required
+2. To paint a pretty picture
+3. To evaluate the quality of the product design and what is needed to 
+improve the product
+4. To get a guage of what the competitor is manufacturing
+-> To compare the well the process is meeting the customers requirements
+
+Question 3.
+When correlating the matrix, what is the purpose of the roof?
+
+-> Develop relationships between requierments of the customer and the product
+2. To evaluate the combination of the required components
+3. To extrapolate the meaning of the universe
+4. Develop the relationship between quailty and customer requirements
+5. to identify the negative impacts of the quality with respect to the 
+customer requirment

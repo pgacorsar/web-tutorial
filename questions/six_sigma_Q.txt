@@ -1,0 +1,29 @@
+Questions for 6 sigma process
+
+Question 1.
+Who used six sigma as a key business strategy, which made it famous?
+-> Jack Welsh
+2. Steve Jobs
+3. Warren Buffett
+5. Richard Branson
+5. David H. Koch
+
+Question 3.
+What is the sigma with in Six Sigma?
+-> Standard Deviation
+2. Capability
+3. Variance
+4. Mean
+5. Yield
+
+Question 4.
+What is the capability, Cp of the process?
+1. Cp is what determines is a product has defects in the final product.
+-> Cp is a measure of how capable the process is of producing the 
+required process characteristic.
+3. Cp is how the manufacturing process behave with the presence of a 
+sudden error.
+4. Cp is the measure of how many products are useable at the end of the 
+manufacuring process.
+5. Cp is the measure of the accuracy of a single step process.
+	
